@@ -1,4 +1,4 @@
-# Tic Tac Toe ou le Morpion
+# Tic Tac Toe ou le "Morpion"
 
 Mini jeu du célèbre morpion en Javascript.
 
